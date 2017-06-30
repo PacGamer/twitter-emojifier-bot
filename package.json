@@ -1,0 +1,22 @@
+{
+  "name": "twitter-emojifier-bot",
+  "version": "1.0.0",
+  "description": "Twitter bot that converts text characters in a tweet into emoji",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "emoji",
+    "emojifier",
+    "convert"
+  ],
+  "author": "pacgamer",
+  "license": "ISC",
+  "dependencies": {
+    "node-emoji": "^1.5.1",
+    "twit": "^2.2.9"
+  }
+}
